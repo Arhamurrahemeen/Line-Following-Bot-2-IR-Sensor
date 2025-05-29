@@ -53,7 +53,7 @@ Key features:
 
 ---
 
-## 📷 Demo
+## 📷 Snap
 
 ![IMG_4756](https://github.com/user-attachments/assets/c1d221fd-5c13-493c-a5a5-6eaf800e49ea)
 
@@ -68,8 +68,6 @@ Key features:
 - Wireless control or telemetry via Bluetooth/WiFi
 
 ---
-
-## 🤝 Team
 
 This project was built by:
 - **Muhammad Arham Rajput** – [LinkedIn](https://www.linkedin.com/in/arham-rajput-a20a09299) | [GitHub](https://github.com/Arhamurrahemeen)
